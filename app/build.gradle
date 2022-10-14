@@ -25,7 +25,7 @@ dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter:5.8.2'
 
     //jitpack.
-    implementation 'com.github.shackbu:ct417:d92c549704'
+    implementation 'com.github.shackbu:ct417:aaa5ab3201'
     
 
     // This dependency is used by the application.
